@@ -1,4 +1,8 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+Hi, I'm Zun Wang 👋
+-
+I'm a Ph.D student at the Department of Physics, Tsinghua University, working in the field of Machine Learning, primarily on Neural Network Potentials for molecular dynamics simulations.
+
 
 <!--
 **sakuraiiiii/sakuraiiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
