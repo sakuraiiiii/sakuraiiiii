@@ -1,8 +1,7 @@
 <!-- ### Hi there 👋 -->
 Hi, I'm Zun Wang 👋
 -
-I'm a Ph.D student at the Department of Physics, Tsinghua University, working in the field of Machine Learning, primarily on Neural Network Potentials for molecular dynamics simulations.
-
+I have got my PhD degree at the Department of Physics, Tsinghua University and will be a researcher at Microsoft Research Asia. I'm working in the field of Machine Learning, primarily on Neural Network Potentials for molecular dynamics simulations.
 
 <!--
 **sakuraiiiii/sakuraiiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
