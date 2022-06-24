@@ -1,4 +1,6 @@
 <!-- ### Hi there 👋 -->
+![](https://komarev.com/ghpvc/?username=sakuraiiiii)
+
 Hi, I'm Zun Wang 👋
 -
 I have got my PhD degree at the Department of Physics, Tsinghua University and will be a researcher at Microsoft Research Asia. I'm working in the field of Machine Learning, primarily on Neural Network Potentials for molecular dynamics simulations.
